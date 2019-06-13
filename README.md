@@ -1,4 +1,4 @@
-# thumbtack-clone
+# Thumbtack Clone - On Demand service apps
 52 services, 1 solution, The Uber for More Services, the Thumbtack Clone is the solution you can offer your customers who are in dire need of on-demand services, starting from the need of a plumber to the need of a lawyer.
 How does this App Work?
 The Thumbtack Clone Solution is the perfect on demand service solution to all the needs of your customer. Whether they want the service of a beautician or the service of a lawyer, the Uber for More Services takes care of all their needs. 
